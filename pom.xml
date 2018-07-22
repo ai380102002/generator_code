@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cncounter</groupId>
-    <artifactId>rapid-generator</artifactId>
+    <artifactId>generator_code</artifactId>
     <version>3.9.2</version>
 
     <dependencies>
